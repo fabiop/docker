@@ -1,0 +1,4 @@
+version: '2'
+services:
+    t0mmyt/influxdb:
+        build: .
